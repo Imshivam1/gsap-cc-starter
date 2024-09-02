@@ -16,7 +16,8 @@ const GsapStagger = () => {
         amount: 1.5,
         grid: [2, 1],
         axis: 'y',
-        ease: 'circ.inOut'
+        ease: 'circ.inOut',
+        from: 'center'
       }
 
     })
